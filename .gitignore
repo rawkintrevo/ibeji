@@ -1,3 +1,7 @@
 .idea
 ibeji.iml
-.
+
+ibm/examples/nest/cf-app-shim/nest.json
+ibm/examples/nest/cf-app-shim/config.json
+*scratch.py
+*~lock*

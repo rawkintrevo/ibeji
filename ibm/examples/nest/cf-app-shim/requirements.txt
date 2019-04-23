@@ -1,0 +1,4 @@
+python-nest==4.1.0
+wiotp-sdk==0.9.0
+Flask==0.10.1
+schedule

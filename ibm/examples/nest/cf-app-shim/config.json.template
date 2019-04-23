@@ -1,0 +1,13 @@
+{
+  "<your-thermostat-device-id>" : {
+    "token": "<token from watson-iot>",
+    "org_id": "s25rda",
+    "dev_type": "Thermostat_v2",
+    "uid": "use-token-auth",
+    "device_id" : "thermostat1"
+  },
+  "nest" : {
+    "client_id" : "<client id from nest.com>",
+    "client_secret" : "<client secret from nest.com>"
+  }
+}
