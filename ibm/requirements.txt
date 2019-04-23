@@ -1,1 +1,2 @@
 wiotp-sdk
+svg-utils
